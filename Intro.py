@@ -35,6 +35,19 @@ TypeError: can only concatenate str (not "int") to str
 
 '''
 
+# 2.6 using format
+first_name = "Abhay"
+last_name = "Chauhan"
+
+print("My first name is {} and last name is {}".format(first_name, last_name))
+
+# can also be done as -
+print("My first name is {first} and last name is {last}".format(first = first_name, last = last_name))
+
+# 2.7 using f-String
+print(f"My first name is {first_name} and last name is {last_name}")
+
+
 # 3 taking input and saving to a variable
 street = input("What's name of the city you grew up in?\n")
 pet = input("What's your pet's name?\n")

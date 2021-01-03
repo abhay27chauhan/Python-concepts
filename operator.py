@@ -3,8 +3,10 @@
 2 + 3
 7 - 4
 3 * 2
+10 % 2
 6 / 3  # 2.0 -> always give float
 2 ** 3 # 2*2*2
+10 * 'str'  # -> 'strstrstrstrstrstrstrstrstrstr'
 
 '''
 operators precedence -
