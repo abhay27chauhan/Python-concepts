@@ -1,10 +1,10 @@
-# 1 single line comment
+# 1 -> single line comment
 
 '''
 multiple line comment
 '''
 
-# 2 ways to print 
+# 2 -> ways to print 
 print("Welcome to the Band Name Generator.")
 
 # 2.1 output with new line
