@@ -47,6 +47,13 @@ print("My first name is {first} and last name is {last}".format(first = first_na
 # 2.7 using f-String
 print(f"My first name is {first_name} and last name is {last_name}")
 
+#2.8 print multiple lines
+print('''
+Hello
+My Name is
+Abhay
+''')
+
 
 # 3 taking input and saving to a variable
 street = input("What's name of the city you grew up in?\n")
