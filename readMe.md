@@ -10,3 +10,4 @@
 8. rock_paper_scissor.py
 9. for_loops.py
 10. password_generator.py
+11. Hangman
