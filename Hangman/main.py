@@ -17,7 +17,7 @@ for _ in range(word_length):
 while not is_game_finished:
     guess = input("Guess a letter: ").lower()
 
-    #Use the clear() function imported from replit to clear the output between guesses.
+    #Use the clear() function imported from os to clear the output between guesses.
     system('clear')
 
     if guess in display:
