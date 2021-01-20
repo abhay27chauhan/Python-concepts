@@ -1,0 +1,32 @@
+# 1.1 Simple Function
+def greet():  # declaring the function
+  print("Hello Angela")
+  print("How do you do Jack Bauer?")
+  print("Isn't the weather nice today?")
+
+greet() # calling the function
+
+
+# 1.2 Function that allows for input
+#'name' is the parameter.
+#'Jack Bauer' is the argument.
+def greet_with_name(name):
+  print(f"Hello {name}")
+  print(f"How do you do {name}?")
+
+greet_with_name("Jack Bauer")
+
+
+# 1.3 Functions with more than 1 input
+def greet_with(name, location):
+  print(f"Hello {name}")
+  print(f"What is it like in {location}?")
+
+
+#Calling greet_with() with Positional Arguments -> sequence matters
+greet_with("Jack Bauer", "Nowhere")
+#vs.
+greet_with("Nowhere", "Jack Bauer")
+
+#Calling greet_with() with Keyword Arguments -> sequence don't matter
+greet_with(location="London", name="Angela")
