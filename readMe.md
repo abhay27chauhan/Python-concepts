@@ -12,3 +12,4 @@
 10. password_generator.py
 11. Hangman
 12. function.py
+13. function_example.py
