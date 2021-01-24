@@ -13,3 +13,5 @@
 11. Hangman
 12. function.py
 13. function_example.py
+14. ceaser-cipher
+15. dictionary.py

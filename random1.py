@@ -1,6 +1,6 @@
-# importing random module
 # check here - https://www.askpython.com/python-modules/python-random-module-generate-random-numbers-sequences
 
+# importing random module
 import random
 
 randomInteger = random.randint(1, 10) 
