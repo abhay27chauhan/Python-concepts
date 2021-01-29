@@ -16,3 +16,4 @@
 14. ceaser-cipher
 15. dictionary.py
 16. blind_auction
+17. calculator
