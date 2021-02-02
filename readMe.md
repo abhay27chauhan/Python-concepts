@@ -17,3 +17,5 @@
 15. dictionary.py
 16. blind_auction
 17. calculator
+18. Blackjack
+19. scope.py
