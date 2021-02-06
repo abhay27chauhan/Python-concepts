@@ -19,3 +19,6 @@
 17. calculator
 18. Blackjack
 19. scope.py
+20. guess_the_number
+21. Higher_Lower_Game
+22. coffee_machine.py
