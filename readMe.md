@@ -22,3 +22,4 @@
 20. guess_the_number
 21. Higher_Lower_Game
 22. coffee_machine.py
+23. coffee_maker_usingClass

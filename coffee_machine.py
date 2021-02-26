@@ -74,6 +74,13 @@ def make_coffee(drink_name, order_ingredients):
 is_on = True
 
 while is_on:
+    print('''
+    commands accepted -
+    1. off - to shutdown the machine
+    2. report - for report
+    3. espresso/latte/cappuccino - for type of coffee
+    ''')
+    
     choice = input("​What would you like? (espresso/latte/cappuccino): ")
     if choice == "off":
         is_on = False
