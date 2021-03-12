@@ -23,3 +23,6 @@
 21. Higher_Lower_Game
 22. coffee_machine.py
 23. coffee_maker_usingClass
+24. quiz_game -> creating own class
+25. string.py
+26. sets.py

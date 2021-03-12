@@ -34,7 +34,7 @@ final_amount = round(bill_per_person, 2) # round-off to 2 decimal places
 
 #If you want the final_amount to always have 2 decimal places.
 #e.g. $12 becomes $12.00
-# You can do this instead of line 22
+# You can do this instead of line 33
 final_amount = "{:.2f}".format(bill_per_person)
 
 print(f"Each person should pay: ${final_amount}")
