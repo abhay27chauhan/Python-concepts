@@ -26,3 +26,4 @@
 24. quiz_game -> creating own class
 25. string.py
 26. sets.py
+27. Numpylib.py
