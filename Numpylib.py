@@ -48,7 +48,7 @@ print(arr5)
 arr5 = np.random.rand(3, 3)
 print(arr5)
 
-arr5 = np.random.randint(0, 100, 8).reshape(4, 2) 
+arr5 = np.random.randint(0, 100, 8).reshape(4, 2) # 8 represents gap in values
 print(arr5)
 
 # np.random.random_sample() is one of the function for doing random sampling in numpy. It returns an array of specified shape and fills it with random floats in the half-open interval [0.0, 1.0).
