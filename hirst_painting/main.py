@@ -1,9 +1,9 @@
 from color import rgb_colors
-import turtle as turtle_module
+from turtle import Turtle, Screen, colormode
 import random
 
-turtle_module.colormode(255)
-tim = turtle_module.Turtle()
+colormode(255)
+tim = Turtle()
 tim.speed("fastest")
 tim.penup()
 tim.hideturtle()
@@ -24,5 +24,5 @@ for dot_count in range(1, number_of_dots + 1):
         tim.forward(500)
         tim.setheading(0)
 
-screen = turtle_module.Screen()
+screen = Screen()
 screen.exitonclick()

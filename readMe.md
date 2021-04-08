@@ -25,6 +25,8 @@
 23. coffee_maker_usingClass
 24. quiz_game -> creating own class
 25. strings.py
-26. sets.py
-27. Numpylib.py
-28. pandaslib.py
+26. hirst_painting
+27. turtle_race.py
+28. sets.py
+29. Numpylib.py
+30. pandaslib.py
